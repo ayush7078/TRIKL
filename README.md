@@ -20,7 +20,7 @@ MongoDB (local or MongoDB Atlas)
 Installation
 
 Clone the repository to your local machine:
-git clone https://github.com/yourusername/backend-item-management.git
+git clone https://github.com/ayush7078/TRIKL.git
 
 Navigate to the project directory:
 cd backend-item-management
@@ -36,7 +36,7 @@ Running the Server
 
 To start the server, run the following command:
 node server.js
-The server will start on port 3000 by default. You can change the port by setting the PORT environment variable.
+The server will start on port 5000 by default. You can change the port by setting the PORT environment variable.
 
 API Endpoints
 
