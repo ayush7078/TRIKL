@@ -11,8 +11,8 @@ Contributing
 License
 Getting Started
 Prerequisites
-Before running the application, make sure you have the following software installed:
 
+Before running the application, make sure you have the following software installed:
 Node.js (with npm)
 MongoDB (local or MongoDB Atlas)
 
@@ -30,7 +30,6 @@ npm install
 
 Configure the MongoDB connection:
 Open the server.js file.
-Replace the MONGODB_URI with your MongoDB connection string.
 Usage
 Running the Server
 
